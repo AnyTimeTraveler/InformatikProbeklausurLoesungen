@@ -4,9 +4,17 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Runner {
     private static Class<?>[] classes = new Class[]{
+            A11.class,
+            A12.class,
+            A21.class,
+            A31.class,
+            A33.class,
+            A41.class,
 //            A51.class,
             A52.class,
             A61.class,
+//            A62.class,
+//            A63.class,
             A72.class,
             A8.class,
             A9.class
