@@ -10,7 +10,7 @@ public class A8 {
 //        Cabrio p911 = new PKW();
         PKW vwc = new Cabrio();
 //        vwc.superSport();
-        Cabrio bmw = (Cabrio) new PKW();
+        Cabrio bmw = (Cabrio) new PKW(); // auch fehlerhaft, da cast nach Cabrio fehlschlaegt
     }
 
     static abstract class Fahrzeug {
