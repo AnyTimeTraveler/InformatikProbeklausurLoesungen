@@ -14,10 +14,13 @@
 - 4.1 C
 - 4.2 B
 - 4.3 C
-- 5.1 Keine
+- 5.1 Keine (Der Code funktioniert nicht. Ich weiss nicht, ob das gewollt ist.)
 - 5.2 D
 - 6.1 D
 - 6.2 D
 - 6.3 B und C?
 - 7.1 B
 - 7.2 D
+
+
+## Alle Angaben ohne Gewähr
